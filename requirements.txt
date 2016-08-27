@@ -1,0 +1,8 @@
+Django==1.10
+django-telegram-bot==0.6.0
+djangorestframework==3.3.2
+future==0.15.2
+python-telegram-bot==3.2.0
+dj-database-url==0.4.0
+gunicorn==19.4.5
+whitenoise==2.0.6
