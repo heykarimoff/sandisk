@@ -163,3 +163,6 @@ ENV/
 
 /db.sqlite3
 .idea
+
+deploy
+static
