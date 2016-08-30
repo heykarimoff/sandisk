@@ -12,4 +12,8 @@ Chunki bu branchni Oti Heroku shunga ```Heroku:master``` bo'ladi
 $ heroku run python manage.py migrate
 $ heroku open
 ```
-App is currently running here  [![Deploy]](https://glacial-beyond-82514.herokuapp.com/)
+App is currently running here  [here](https://glacial-beyond-82514.herokuapp.com/)
+```
+login: nuruddin
+password: iutlab1234
+```
